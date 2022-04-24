@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning allied skills like SQL and PowerBI
 - 💞️ I’m looking to work as an Data Scientist/Machine Learning Engineer.
+- You can go through my work in the field through other repositeries in my profile.
 - 📫 How to reach me through email @ nagadarshan522@gmail.com
 
 <!---
